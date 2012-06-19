@@ -8,6 +8,10 @@ Changes made to the display code from the tutorial: It was changed to display AN
 
 You can parse STL files of all complexities (both binary and ASCII). The display is pretty good for simpler files like those in the examples section.
 
+The file you want to see is STLVierer.as, it has everything you'll need.
+
+You're welcome to use it, improve upon it, as long as you contribute somthing back to the project.
+
 It's released under the Creative Commons Attribution License (http://creativecommons.org/licenses/by/3.0/)
 
 Last, but not least, donations are always welcome. Send them to Paypal: pranav_hosangadi@yahoo.co.in
